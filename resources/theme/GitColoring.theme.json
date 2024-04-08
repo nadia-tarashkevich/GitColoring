@@ -1,13 +1,12 @@
 {
   "name": "GitColoring",
-  "author": "YourCompany",
+  "author": "JetBrains support",
   "dark": true,
-
+  "parentTheme": "RiderNight",
   "colors": {
     "primaryRed": "#821010"
   },
-
   "ui": {
-    "Button.background": "primaryRed"
+    "VersionControl.Log.Commit.currentBranchBackground": "primaryRed"
   }
 }
