@@ -2,11 +2,11 @@
   "name": "GitColoring",
   "author": "JetBrains support",
   "dark": true,
-  "parentTheme": "RiderNight",
+  "parentTheme": "ExperimentalDark",
   "colors": {
-    "primaryRed": "#821010"
+    "greenShade": "#51a16b"
   },
   "ui": {
-    "VersionControl.Log.Commit.currentBranchBackground": "primaryRed"
+    "VersionControl.Log.Commit.currentBranchBackground": "greenShade"
   }
 }
