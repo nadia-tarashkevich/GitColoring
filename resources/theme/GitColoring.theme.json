@@ -4,9 +4,9 @@
   "dark": true,
   "parentTheme": "ExperimentalDark",
   "colors": {
-    "greenShade": "#51a16b"
+    "brownShade": "#3E3930"
   },
   "ui": {
-    "VersionControl.Log.Commit.currentBranchBackground": "greenShade"
+    "VersionControl.Log.Commit.currentBranchBackground": "brownShade"
   }
 }
